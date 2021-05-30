@@ -34,3 +34,5 @@ https://github.com/geeknik/the-nuclei-templates
 
 https://github.com/optiv/mobile-nuclei-templates
 
+https://github.com/obreinx/nuceli-templates
+
