@@ -29,3 +29,8 @@ https://github.com/im403/nuclei-temp
 https://github.com/System00-Security/backflow
 
 https://github.com/geeknik/nuclei-templates-1
+
+https://github.com/geeknik/the-nuclei-templates
+
+https://github.com/optiv/mobile-nuclei-templates
+
