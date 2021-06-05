@@ -36,3 +36,8 @@ https://github.com/optiv/mobile-nuclei-templates
 
 https://github.com/obreinx/nuceli-templates
 
+https://github.com/randomstr1ng/nuclei-sap-templates
+
+https://github.com/notnotnotveg/nuclei-custom-templates
+
+
