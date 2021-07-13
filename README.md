@@ -49,3 +49,7 @@ https://github.com/n1f2c3/mytemplates
 https://github.com/kabilan1290/templates
 
 https://github.com/smaranchand/nuclei-templates
+
+https://github.com/Saimonkabir/Nuclei-Templates
+
+
