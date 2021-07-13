@@ -43,3 +43,7 @@ https://github.com/notnotnotveg/nuclei-custom-templates
 https://github.com/CharanRayudu/Custom-Nuclei-Templates
 
 https://github.com/zinminphyo0/KozinTemplates
+
+https://github.com/n1f2c3/mytemplates
+
+
