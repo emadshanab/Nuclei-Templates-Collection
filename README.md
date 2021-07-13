@@ -53,3 +53,11 @@ https://github.com/smaranchand/nuclei-templates
 https://github.com/Saimonkabir/Nuclei-Templates
 
 https://github.com/yavolo/nuclei-templates
+
+https://github.com/sadnansakin/my-nuclei-templates
+
+https://github.com/5cr1pt/templates
+
+https://github.com/rahulkadavil/nuclei-templates
+
+https://github.com/Nithissh0708/Custom-Nuclei-Templates
