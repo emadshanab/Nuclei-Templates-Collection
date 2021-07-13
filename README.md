@@ -61,3 +61,5 @@ https://github.com/5cr1pt/templates
 https://github.com/rahulkadavil/nuclei-templates
 
 https://github.com/Nithissh0708/Custom-Nuclei-Templates
+
+https://github.com/shifa123/detections
