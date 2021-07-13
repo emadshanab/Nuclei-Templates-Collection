@@ -52,4 +52,4 @@ https://github.com/smaranchand/nuclei-templates
 
 https://github.com/Saimonkabir/Nuclei-Templates
 
-
+https://github.com/yavolo/nuclei-templates
