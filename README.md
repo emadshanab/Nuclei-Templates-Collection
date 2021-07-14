@@ -64,4 +64,3 @@ https://github.com/Nithissh0708/Custom-Nuclei-Templates
 
 https://github.com/shifa123/detections
 
-https://github.com/shifa123/mytemplates
