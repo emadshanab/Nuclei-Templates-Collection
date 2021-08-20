@@ -38,8 +38,6 @@ https://github.com/obreinx/nuceli-templates
 
 https://github.com/randomstr1ng/nuclei-sap-templates
 
-https://github.com/notnotnotveg/nuclei-custom-templates
-
 https://github.com/CharanRayudu/Custom-Nuclei-Templates
 
 https://github.com/zinminphyo0/KozinTemplates
@@ -65,3 +63,15 @@ https://github.com/Nithissh0708/Custom-Nuclei-Templates
 https://github.com/shifa123/detections
 
 https://github.com/daffainfo/my-nuclei-templates
+
+https://github.com/clarkvoss/Nuclei-Templates
+
+https://github.com/javaongsan/nuclei-templates
+
+https://github.com/AshiqurEmon/nuclei_templates.git
+
+https://github.com/ChiaraNRTT96/BountySkill
+
+https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
+
+
