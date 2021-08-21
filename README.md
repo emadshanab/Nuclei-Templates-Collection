@@ -74,4 +74,4 @@ https://github.com/ChiaraNRTT96/BountySkill
 
 https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
 
-
+https://gist.github.com/0x240x23elu
