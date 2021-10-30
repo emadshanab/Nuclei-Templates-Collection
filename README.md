@@ -77,3 +77,9 @@ https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
 https://gist.github.com/0x240x23elu
 
 https://github.com/NitinYadav00/My-Nuclei-Templates
+
+https://github.com/sharathkramadas/k8s-nuclei-templates
+
+https://github.com/securitytest3r/nuclei_templates_work
+
+
