@@ -82,4 +82,4 @@ https://github.com/sharathkramadas/k8s-nuclei-templates
 
 https://github.com/securitytest3r/nuclei_templates_work
 
-
+https://github.com/MR-pentestGuy/nuclei-templates
