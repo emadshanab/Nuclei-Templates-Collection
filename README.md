@@ -114,4 +114,4 @@ https://github.com/0x727/ObserverWard_0x727
 
 https://github.com/smaranchand/nuclei-templates
 
-
+https://github.com/ethicalhackingplayground/erebus-templates
