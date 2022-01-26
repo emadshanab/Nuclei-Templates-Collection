@@ -2,8 +2,6 @@ https://github.com/pikpikcu/nuclei-templates
 
 https://github.com/esetal/nuclei-bb-templates
 
-https://github.com/panch0r3d/nuclei-templates
-
 https://github.com/ARPSyndicate/kenzer-templates
 
 https://github.com/medbsq/ncl
