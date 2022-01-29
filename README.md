@@ -113,3 +113,5 @@ https://github.com/0x727/ObserverWard_0x727
 https://github.com/smaranchand/nuclei-templates
 
 https://github.com/ethicalhackingplayground/erebus-templates
+
+https://github.com/test502git/log4j-fuzz-head-poc
