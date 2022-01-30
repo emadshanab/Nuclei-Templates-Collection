@@ -117,3 +117,5 @@ https://github.com/ethicalhackingplayground/erebus-templates
 https://github.com/test502git/log4j-fuzz-head-poc
 
 https://github.com/Str1am/my-nuclei-templates
+
+https://github.com/d3sca/Nuclei_Templates
