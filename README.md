@@ -119,3 +119,11 @@ https://github.com/test502git/log4j-fuzz-head-poc
 https://github.com/Str1am/my-nuclei-templates
 
 https://github.com/d3sca/Nuclei_Templates
+
+https://github.com/c-sh0/nuclei_templates
+
+https://github.com/glyptho/templatesallnuclei
+
+https://github.com/rahulkadavil/nuclei-templates
+
+https://github.com/0xAwali/Virtual-Host
