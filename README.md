@@ -127,3 +127,5 @@ https://github.com/glyptho/templatesallnuclei
 https://github.com/rahulkadavil/nuclei-templates
 
 https://github.com/0xAwali/Virtual-Host
+
+https://github.com/praetorian-inc/chariot-launch-nuclei-templates
