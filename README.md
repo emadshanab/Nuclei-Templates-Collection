@@ -129,3 +129,13 @@ https://github.com/rahulkadavil/nuclei-templates
 https://github.com/0xAwali/Virtual-Host
 
 https://github.com/praetorian-inc/chariot-launch-nuclei-templates
+
+https://github.com/brinhosa/brinhosa-nuclei-templates
+
+https://github.com/kh4sh3i/CVE-2022-23131
+
+https://github.com/esetal/nuclei-bb-templates
+
+https://github.com/wr00t/templates
+
+
