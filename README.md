@@ -138,4 +138,8 @@ https://github.com/esetal/nuclei-bb-templates
 
 https://github.com/wr00t/templates
 
+https://github.com/alexrydzak/rydzak-nuclei-templates
+
+
+
 
