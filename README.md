@@ -140,6 +140,12 @@ https://github.com/wr00t/templates
 
 https://github.com/alexrydzak/rydzak-nuclei-templates
 
+https://github.com/adampielak/nuclei-templates
 
+https://github.com/ShangRui-hash/my-nuclei-templates
+
+https://github.com/dk4trin/templates-nuclei
+
+https://github.com/Elsfa7-110/mynuclei-templates
 
 
