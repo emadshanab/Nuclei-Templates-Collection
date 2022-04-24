@@ -149,3 +149,5 @@ https://github.com/dk4trin/templates-nuclei
 https://github.com/Elsfa7-110/mynuclei-templates
 
 https://github.com/ping-0day/templates
+
+https://github.com/wasp76b/nuclei-templates
