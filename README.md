@@ -102,6 +102,10 @@ https://github.com/R-s0n/Custom_Vuln_Scan_Templates
 
 https://github.com/meme-lord/Custom-Nuclei-Templates
 
+https://github.com/Akokonunes/Private-Nuclei-Templates
+
+https://github.com/rafaelwdornelas/my-nuclei-templates
+
 https://github.com/notnotnotveg/nuclei-custom-templates
 
 https://github.com/rafaelcaria/Nuclei-Templates
@@ -151,3 +155,23 @@ https://github.com/Elsfa7-110/mynuclei-templates
 https://github.com/ping-0day/templates
 
 https://github.com/wasp76b/nuclei-templates
+
+https://github.com/th3r4id/nuclei-templates
+
+https://github.com/themastersunil/Nuclei-TamplatesBackup.git
+
+https://github.com/javaongsan/nuclei-templates
+
+https://github.com/justmumu/SpringShell
+
+https://github.com/trickest/log4j
+
+https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228
+
+https://github.com/toramanemre/log4j-rce-detect-waf-bypass
+
+https://github.com/blazeinfosec/nuclei-templates
+
+https://github.com/ekinsb/Nuclei-Templates
+
+
