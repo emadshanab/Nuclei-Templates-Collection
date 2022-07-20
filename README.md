@@ -175,3 +175,7 @@ https://github.com/blazeinfosec/nuclei-templates
 https://github.com/ekinsb/Nuclei-Templates
 
 https://github.com/KeepHowling/all_freaking_nuclei_templates
+
+https://github.com/Odayex/Random-Nuclei-Templates
+
+
