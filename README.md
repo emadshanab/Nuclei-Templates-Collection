@@ -189,3 +189,5 @@ https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader
 https://github.com/pentest-dev/Profesional-Nuclei-Templates
 
 https://github.com/Aituglo/nuclei-templates
+
+https://github.com/badboy-sft/badboy_17-Nuclei-Templates-Collection
