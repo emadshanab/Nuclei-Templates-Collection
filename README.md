@@ -179,3 +179,7 @@ https://github.com/KeepHowling/all_freaking_nuclei_templates
 https://github.com/Odayex/Random-Nuclei-Templates
 
 https://github.com/themastersunil/nucleiDB
+
+https://github.com/Linuxinet/nuclei-templates
+
+
