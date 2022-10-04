@@ -194,4 +194,4 @@ https://github.com/badboy-sft/badboy_17-Nuclei-Templates-Collection
 
 https://github.com/NightRang3r/misc_nuclei_templates
 
-
+https://github.com/0XParthJ/Nuclei-Templates
