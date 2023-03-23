@@ -200,3 +200,23 @@ https://github.com/trungkay2/Nuclei-template
 
 https://github.com/ExpLangcn/NucleiTP
 
+https://github.com/0xmaximus/final_freaking_nuclei_templates
+
+https://github.com/Jagomeiister/nuclei-templates
+
+https://github.com/ricardomaia/nuclei-template-generator-for-wordpress-plugins
+
+https://github.com/yavolo/nuclei-templates
+
+https://github.com/Lopseg/nuclei-c-templates
+
+https://github.com/p0ch4t/nuclei-special-templates
+
+https://github.com/sl4x0/NC-Templates
+
+https://github.com/thecyberneh/nuclei-templatess
+
+https://github.com/yarovit-developer/nuclei-templates
+
+https://github.com/cipher387/juicyinfo-nuclei-templates
+
