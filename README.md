@@ -283,3 +283,17 @@ https://github.com/0xPugazh/my-nuclei-templates
 https://github.com/c-sh0/nuclei_templates
 
 https://github.com/pacho15/mynuclei_templates
+
+https://github.com/1dayluo/My-Nuclei-Templates
+
+https://github.com/topscoder/nuclei-wordfence-cve
+
+https://github.com/drfabiocastro/certwatcher-templates
+
+https://github.com/erickfernandox/nuclei-templates
+
+https://github.com/damon-sec/Nuclei-templates-Collection
+
+https://github.com/DoubleTakes/nuclei-templates
+
+https://github.com/ptyspawnbinbash/template-enhancer
