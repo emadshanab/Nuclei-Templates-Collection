@@ -297,3 +297,11 @@ https://github.com/damon-sec/Nuclei-templates-Collection
 https://github.com/DoubleTakes/nuclei-templates
 
 https://github.com/ptyspawnbinbash/template-enhancer
+
+https://github.com/Arvinthksrct/alltemplate
+
+https://github.com/0xmaximus/final_freaking_nuclei_templates
+
+https://github.com/xinZa1/template
+
+
