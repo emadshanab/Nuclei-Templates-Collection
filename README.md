@@ -300,6 +300,8 @@ https://github.com/ptyspawnbinbash/template-enhancer
 
 https://github.com/Arvinthksrct/alltemplate
 
+https://github.com/themoonbaba/private_templates/blob/main/springboot_heapdump.yaml
+
 https://github.com/0xmaximus/final_freaking_nuclei_templates
 
 https://github.com/xinZa1/template
