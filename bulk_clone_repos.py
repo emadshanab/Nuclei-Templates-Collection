@@ -4,7 +4,7 @@ import os
 repo_file = "templates-repos.txt"
 
 # Directory to clone into
-clone_dir = "community"
+clone_dir = "community-templates"
 
 # Read repository URLs from file
 with open(repo_file, 'r') as file:
