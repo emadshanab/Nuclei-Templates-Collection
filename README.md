@@ -306,4 +306,4 @@ https://github.com/0xmaximus/final_freaking_nuclei_templates
 
 https://github.com/xinZa1/template
 
-
+https://github.com/SirBugs/Priv8-Nuclei-Templates
