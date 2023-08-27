@@ -302,8 +302,28 @@ https://github.com/Arvinthksrct/alltemplate
 
 https://github.com/themoonbaba/private_templates/blob/main/springboot_heapdump.yaml
 
+https://github.com/srkgupta/cent-nuclei-templates
+
+https://github.com/UltimateSec/ultimaste-nuclei-templates
+
 https://github.com/0xmaximus/final_freaking_nuclei_templates
 
 https://github.com/xinZa1/template
 
 https://github.com/SirBugs/Priv8-Nuclei-Templates
+
+https://github.com/panch0r3d/nuclei-templates
+
+https://github.com/davidfortytwo/GetNucleiTemplates
+
+https://github.com/v3l4r10/Nuclei-Templates
+
+https://github.com/lkuik/nuclei-templates
+
+https://github.com/wearetyomsmnv/llm_integrated_nuclei_templates
+
+https://github.com/U53RW4R3/nuclei-fuzzer-templates
+
+https://github.com/edoardottt/missing-cve-nuclei-templates
+
+https://github.com/szybnev/nuclei-custom
