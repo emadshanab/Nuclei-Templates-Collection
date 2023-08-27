@@ -327,3 +327,6 @@ https://github.com/U53RW4R3/nuclei-fuzzer-templates
 https://github.com/edoardottt/missing-cve-nuclei-templates
 
 https://github.com/szybnev/nuclei-custom
+
+https://github.com/r3dcl1ff/Symfony-Fuck
+
