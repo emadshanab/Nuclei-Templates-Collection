@@ -330,3 +330,4 @@ https://github.com/szybnev/nuclei-custom
 
 https://github.com/r3dcl1ff/Symfony-Fuck
 
+https://github.com/RandomRobbieBF/nuclei-drupal-sa
