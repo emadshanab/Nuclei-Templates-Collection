@@ -331,3 +331,14 @@ https://github.com/szybnev/nuclei-custom
 https://github.com/r3dcl1ff/Symfony-Fuck
 
 https://github.com/RandomRobbieBF/nuclei-drupal-sa
+
+https://github.com/ed-red/redmc_custom_templates_nuclei
+
+https://github.com/imhunterand/nuclei-custom-templates
+
+https://github.com/vulnspace/nuclei-templates
+
+https://github.com/microphone-mathematics/custom-nuclei-templates
+
+https://github.com/valaDevs/nuclei-backupfile-finder
+
