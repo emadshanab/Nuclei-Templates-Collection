@@ -342,3 +342,12 @@ https://github.com/microphone-mathematics/custom-nuclei-templates
 
 https://github.com/valaDevs/nuclei-backupfile-finder
 
+https://github.com/h0tak88r/nuclei_templates
+
+https://github.com/solo10010/solo-nuclei-templates
+
+https://github.com/erickfernandox/nuclei-templates
+
+https://github.com/Excis3/bans4-nuclei
+
+https://github.com/Dalaho-bangin/my_nuclei_templates
