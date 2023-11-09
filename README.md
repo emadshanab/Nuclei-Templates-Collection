@@ -349,8 +349,11 @@ https://github.com/solo10010/solo-nuclei-templates
 https://github.com/erickfernandox/nuclei-templates
 
 https://github.com/zerbaliy3v/custom-nuclei-templates
+
 https://github.com/Excis3/bans4-nuclei
 
 https://github.com/Dalaho-bangin/my_nuclei_templates
 
 https://github.com/pikpikcu/nuclei-fuzz
+
+https://github.com/bhataasim1/PersonalTemplates
