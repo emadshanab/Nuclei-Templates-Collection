@@ -357,3 +357,5 @@ https://github.com/Dalaho-bangin/my_nuclei_templates
 https://github.com/pikpikcu/nuclei-fuzz
 
 https://github.com/bhataasim1/PersonalTemplates
+
+https://github.com/reewardius/log4shell-templates
