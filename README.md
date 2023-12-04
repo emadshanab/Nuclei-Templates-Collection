@@ -359,3 +359,13 @@ https://github.com/pikpikcu/nuclei-fuzz
 https://github.com/bhataasim1/PersonalTemplates
 
 https://github.com/reewardius/log4shell-templates
+
+https://github.com/0xKayala/Custom-Nuclei-Templates
+
+https://github.com/VulnExpo/nuclei-templates
+
+https://github.com/thanhnx9/nuclei-templates-cutomer
+
+https://github.com/nvsecurity/nightvision-nuclei-templates
+
+
