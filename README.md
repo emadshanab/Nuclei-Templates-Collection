@@ -368,4 +368,6 @@ https://github.com/thanhnx9/nuclei-templates-cutomer
 
 https://github.com/nvsecurity/nightvision-nuclei-templates
 
+https://github.com/Red-Darkin/Custom-Nuclei-Templates
 
+https://github.com/h4ndsh/nuclei-templates
