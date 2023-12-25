@@ -8,13 +8,9 @@ https://github.com/medbsq/ncl
 
 https://github.com/notnotnotveg/nuclei-custom-templates
 
-https://github.com/foulenzer/foulenzer-templates
-
 https://github.com/clarkvoss/Nuclei-Templates
 
 https://github.com/z3bd/nuclei-templates
-
-https://github.com/joanbono/nuclei-templates
 
 https://github.com/peanuth8r/Nuclei_Templates
 
@@ -38,8 +34,6 @@ https://github.com/randomstr1ng/nuclei-sap-templates
 
 https://github.com/CharanRayudu/Custom-Nuclei-Templates
 
-https://github.com/zinminphyo0/KozinTemplates
-
 https://github.com/n1f2c3/mytemplates
 
 https://github.com/kabilan1290/templates
@@ -56,8 +50,6 @@ https://github.com/5cr1pt/templates
 
 https://github.com/rahulkadavil/nuclei-templates
 
-https://github.com/Nithissh0708/Custom-Nuclei-Templates
-
 https://github.com/shifa123/detections
 
 https://github.com/daffainfo/my-nuclei-templates
@@ -68,11 +60,7 @@ https://github.com/javaongsan/nuclei-templates
 
 https://github.com/AshiqurEmon/nuclei_templates.git
 
-https://github.com/ChiaraNRTT96/BountySkill
-
 https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
-
-https://gist.github.com/0x240x23elu
 
 https://github.com/NitinYadav00/My-Nuclei-Templates
 
@@ -87,8 +75,6 @@ https://github.com/thelabda/nuclei-templates
 https://github.com/1in9e/my-nuclei-templates
 
 https://github.com/redteambrasil/nuclei-templates
-
-https://github.com/joanbono/nuclei-templates
 
 https://github.com/Saptak9983/Nuclei-Template
 
@@ -158,8 +144,6 @@ https://github.com/wasp76b/nuclei-templates
 
 https://github.com/th3r4id/nuclei-templates
 
-https://github.com/themastersunil/Nuclei-TamplatesBackup.git
-
 https://github.com/javaongsan/nuclei-templates
 
 https://github.com/justmumu/SpringShell
@@ -178,25 +162,15 @@ https://github.com/KeepHowling/all_freaking_nuclei_templates
 
 https://github.com/Odayex/Random-Nuclei-Templates
 
-https://github.com/themastersunil/nucleiDB
-
-https://github.com/Linuxinet/nuclei-templates
-
 https://github.com/aels/CVE-2022-37042
 
 https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader
 
 https://github.com/pentest-dev/Profesional-Nuclei-Templates
 
-https://github.com/Aituglo/nuclei-templates
-
 https://github.com/badboy-sft/badboy_17-Nuclei-Templates-Collection
 
 https://github.com/NightRang3r/misc_nuclei_templates
-
-https://github.com/0XParthJ/Nuclei-Templates
-
-https://github.com/trungkay2/Nuclei-template
 
 https://github.com/ExpLangcn/NucleiTP
 
@@ -210,8 +184,6 @@ https://github.com/yavolo/nuclei-templates
 
 https://github.com/Lopseg/nuclei-c-templates
 
-https://github.com/p0ch4t/nuclei-special-templates
-
 https://github.com/sl4x0/NC-Templates
 
 https://github.com/thecyberneh/nuclei-templatess
@@ -220,19 +192,13 @@ https://github.com/yarovit-developer/nuclei-templates
 
 https://github.com/cipher387/juicyinfo-nuclei-templates
 
-https://github.com/trungkay2/Nuclei-template
-
 https://github.com/Kaue-Navarro/Templates-kaue-nuclei
 
 https://github.com/JoshMorrison99/url-based-nuclei-templates
 
 https://github.com/notnotnotveg/nuclei-custom-templates
 
-https://github.com/abbycantcode/Nuclei-Template
-
 https://github.com/ayadim/Nuclei-bug-hunter
-
-https://github.com/pacho15/mynuclei_templates
 
 https://github.com/dk4trin/templates-nuclei
 
@@ -268,8 +234,6 @@ https://github.com/mastersir-lab/nuclei-yaml-poc
 
 https://github.com/SirAppSec/nuclei-template-generator-log4j
 
-https://github.com/souzomain/mytemplates
-
 https://github.com/1in9e/my-nuclei-templates
 
 https://github.com/ricardomaia/nuclei-template-generator-for-wordpress-plugins
@@ -281,10 +245,6 @@ https://github.com/adampielak/nuclei-templates
 https://github.com/0xPugazh/my-nuclei-templates
 
 https://github.com/c-sh0/nuclei_templates
-
-https://github.com/pacho15/mynuclei_templates
-
-https://github.com/1dayluo/My-Nuclei-Templates
 
 https://github.com/topscoder/nuclei-wordfence-cve
 
@@ -299,8 +259,6 @@ https://github.com/DoubleTakes/nuclei-templates
 https://github.com/ptyspawnbinbash/template-enhancer
 
 https://github.com/Arvinthksrct/alltemplate
-
-https://github.com/themoonbaba/private_templates/blob/main/springboot_heapdump.yaml
 
 https://github.com/srkgupta/cent-nuclei-templates
 

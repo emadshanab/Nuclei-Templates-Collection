@@ -1,15 +1,22 @@
 import os
+import hashlib
 
 # File containing repository URLs
-repo_file = "templates-repos.txt"
+repo_file = "README.md"
 
 # Directory to clone into
 clone_dir = "community-templates"
 
-# Read repository URLs from file
+# Read repository URLs from file and remove duplicates
 with open(repo_file, 'r') as file:
-    repos = [line.strip() for line in file if line.strip()]
+    urls = list(set(line.strip() for line in file if line.strip()))
 
 # Clone each repository
-for repo in repos:
-    os.system(f"git clone {repo} {clone_dir}/{os.path.basename(repo)}")
+for url in urls:
+    # Hash the URL to create a unique directory name
+    url_hash = hashlib.sha256(url.encode()).hexdigest()[:10]
+    
+    # Create a unique directory name with the separator
+    target_dir = os.path.join(clone_dir, f"{os.path.basename(url)}__{url_hash}")
+
+    os.system(f"git clone {url} {target_dir}")
