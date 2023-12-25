@@ -19,39 +19,66 @@ Dependencies: This script requires Python's built-in `os` module.
 
 import os
 
-def get_all_files(dir_path):
+def get_all_yaml_files(dir_path):
     """
-    This function takes a directory path as input and returns a dictionary containing the names of all files in the directory 
+    This function takes a directory path as input and returns a dictionary containing the names of all YAML files in the directory
     (including subdirectories) as keys, with their corresponding full paths as values.
     """
-    all_files = {}  # Dict to store all templates names and their full paths
+    all_yaml_files = {}  # Dict to store all YAML file names and their full paths
 
     for dirpath, dirs, files in os.walk(dir_path):
         dirs[:] = [d for d in dirs if d != '.git']  # Ignore .git directories
         for filename in files:
-            all_files[filename] = os.path.join(dirpath, filename)  # Add each template name and its path to the dict
+            if filename.endswith(".yml") or filename.endswith(".yaml"):
+                all_yaml_files[filename] = os.path.join(dirpath, filename)  # Add each YAML file and its path to the dict
 
-    return all_files
+    return all_yaml_files
+
+def get_file_size(file_path):
+    # Function to get the size of a file in bytes
+    return os.path.getsize(file_path)
 
 community_path = 'community-templates'
-nucleiTemplates_path = 'nuclei-templates'
+nucleiTemplates_path = os.path.expanduser('~/.local/nuclei-templates')
 
-community = get_all_files(community_path)
-nucleiTemplates = get_all_files(nucleiTemplates_path)
+community = get_all_yaml_files(community_path)
+nucleiTemplates = get_all_yaml_files(nucleiTemplates_path)
 
-# Find templates that are in the nuclei-templates directory but not the community-templates
+# Find templates that are in the nuclei-templates directory but not in the community-templates
 diff_templates = set(community.keys()) - set(nucleiTemplates.keys())
 
 # Find templates that are in both the community and nuclei templates directories
-common_templates = set(community.keys()) & set(nucleiTemplates.keys())  # use intersection operation to find common templates
+common_templates = set(community.keys()) & set(nucleiTemplates.keys())
 
 print("Community templates: ", len(community))
 print("Common templates: ", len(common_templates))
 
-# Remove the common files from the community directory
-for template in common_templates:
-    os.remove(community[template])  # remove the template using its full path
+# Create a log file to track duplicate files
+log_file_path = "duplicate_files.log"
+
+with open(log_file_path, "w") as log_file:
+    log_file.write("Duplicate File\tCommunity Path\tCommunity Size\tNucleiTemplates Size\tNucleiTemplates Path\n")
+
+    # Compare file sizes and rename or delete accordingly
+    for template in common_templates:
+        community_path = community[template]
+        nucleiTemplates_path = nucleiTemplates[template]
+
+        community_size = get_file_size(community_path)
+        nucleiTemplates_size = get_file_size(nucleiTemplates_path)
+
+        log_file.write(f"{template}\t{community_path}\t{community_size}\t{nucleiTemplates_size}\t{nucleiTemplates_path}\n")
+
+        if community_size == nucleiTemplates_size:
+            # Log duplicate file and delete the community template
+            os.remove(community_path)
+            print(f"Deleted duplicate: {template}")
+        else:
+            # Rename the community template with a prefix
+            new_name = f"_dup__{template}"
+            os.rename(community_path, os.path.join(os.path.dirname(community_path), new_name))
+            print(f"Renamed: {template} to {new_name}")
 
 # Recheck the community templates
-community = get_all_files(community_path)
-print("Community templates after removal: ", len(community))
+community = get_all_yaml_files(community_path)
+print("Community templates after removal and renaming: ", len(community))
