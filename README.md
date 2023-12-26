@@ -331,3 +331,5 @@ https://github.com/Red-Darkin/Custom-Nuclei-Templates
 https://github.com/h4ndsh/nuclei-templates
 
 https://github.com/EslamMonex/subdomain-takeover
+
+https://github.com/kh4sh3i/Webmin-CVE
