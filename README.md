@@ -333,3 +333,15 @@ https://github.com/h4ndsh/nuclei-templates
 https://github.com/EslamMonex/subdomain-takeover
 
 https://github.com/kh4sh3i/Webmin-CVE
+
+https://github.com/umityn/my-nuclei-templates
+
+https://github.com/badboycxcc/CVE-2023-24100
+
+https://github.com/qaisarafridi/MY-Nuclei-Templates
+
+https://github.com/damon-sec/TCSZ-Nuclei
+
+https://github.com/0xPugazh/my-nuclei-templates
+
+https://github.com/0x71rex/0-Nuclei-Templates
