@@ -344,6 +344,8 @@ https://github.com/damon-sec/TCSZ-Nuclei
 
 https://github.com/0xPugazh/my-nuclei-templates
 
+https://github.com/mdsabbirkhan/0xPugazh-my-nuclei-templates
+
 https://github.com/0x71rex/0-Nuclei-Templates
 
 https://github.com/projectdiscovery/nuclei-templates
