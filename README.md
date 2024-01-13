@@ -248,8 +248,6 @@ https://github.com/c-sh0/nuclei_templates
 
 https://github.com/topscoder/nuclei-wordfence-cve
 
-https://github.com/drfabiocastro/certwatcher-templates
-
 https://github.com/erickfernandox/nuclei-templates
 
 https://github.com/damon-sec/Nuclei-templates-Collection
@@ -275,8 +273,6 @@ https://github.com/panch0r3d/nuclei-templates
 https://github.com/davidfortytwo/GetNucleiTemplates
 
 https://github.com/v3l4r10/Nuclei-Templates
-
-https://github.com/lkuik/nuclei-templates
 
 https://github.com/wearetyomsmnv/llm_integrated_nuclei_templates
 
@@ -349,3 +345,5 @@ https://github.com/mdsabbirkhan/0xPugazh-my-nuclei-templates
 https://github.com/0x71rex/0-Nuclei-Templates
 
 https://github.com/projectdiscovery/nuclei-templates
+
+https://github.com/0x71rex/0-fuzzing-templates.git
