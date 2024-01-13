@@ -368,46 +368,8 @@ https://github.com/pikpikcu/my-nuclei-templates
 
 https://github.com/rix4uni/BugBountyTips
 
-https://github.com/1dayluo/My-Nuclei-Templates
-
-https://github.com/Aituglo/nuclei-templates
-
-https://github.com/ChiaraNRTT96/BountySkill
-
-https://github.com/Linuxinet/nuclei-templates
-
-https://github.com/Nithissh0708/Custom-Nuclei-Templates
-
-https://github.com/abbycantcode/Nuclei-Template
-
-https://github.com/drfabiocastro/certwatcher-templates
-
-https://github.com/joanbono/nuclei-templates
-
-https://github.com/lkuik/nuclei-templates
-
-https://github.com/p0ch4t/nuclei-special-templates
-
-https://github.com/pacho15/mynuclei_templates
-
-https://github.com/souzomain/mytemplates
-
-https://github.com/themastersunil/Nuclei-TamplatesBackup.git
-
-https://github.com/themastersunil/nucleiDB
-
 https://github.com/themoonbaba/private_templates
-
-https://github.com/trungkay2/Nuclei-template
 
 https://github.com/0xElkot/My-Nuclei-Templates.git
 
 https://github.com/0x71rex/0-Nuclei-Templates.git
-
-https://github.com/foulenzer/foulenzer-templates
-
-https://github.com/zinminphyo0/KozinTemplates
-
-https://gist.github.com/0x240x23elu
-
-https://github.com/0XParthJ/Nuclei-Templates
