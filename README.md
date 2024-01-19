@@ -56,7 +56,7 @@ https://github.com/daffainfo/my-nuclei-templates
 
 https://github.com/javaongsan/nuclei-templates
 
-https://github.com/AshiqurEmon/nuclei_templates.git
+https://github.com/AshiqurEmon/nuclei_templates
 
 https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
 
@@ -298,13 +298,11 @@ https://github.com/0x71rex/0-Nuclei-Templates
 
 https://github.com/projectdiscovery/nuclei-templates
 
-https://github.com/0x71rex/0-fuzzing-templates.git
+https://github.com/0x71rex/0-fuzzing-templates
 
 https://github.com/0x727/ObserverWard
 
 https://github.com/0xAwali/Blind-SSRF
-
-https://github.com/AshiqurEmon/nuclei_templates
 
 https://github.com/Lu3ky13/Authorization-Nuclei-Templates
 
@@ -322,6 +320,44 @@ https://github.com/rix4uni/BugBountyTips
 
 https://github.com/themoonbaba/private_templates
 
-https://github.com/0xElkot/My-Nuclei-Templates.git
+https://github.com/0xElkot/My-Nuclei-Templates
 
-https://github.com/0x71rex/0-Nuclei-Templates.git
+https://github.com/drfabiocastro/certwatcher-templates
+
+https://github.com/lkuik/nuclei-templates
+
+https://github.com/1dayluo/My-Nuclei-Templates
+
+https://github.com/Aituglo/nuclei-templates
+
+https://github.com/ChiaraNRTT96/BountySkill
+
+https://github.com/Linuxinet/nuclei-templates
+
+https://github.com/Nithissh0708/Custom-Nuclei-Templates
+
+https://github.com/abbycantcode/Nuclei-Template
+
+https://github.com/joanbono/nuclei-templates
+
+https://github.com/p0ch4t/nuclei-special-templates
+
+https://github.com/pacho15/mynuclei_templates
+
+https://github.com/souzomain/mytemplates
+
+https://github.com/themastersunil/Nuclei-TamplatesBackup
+
+https://github.com/themastersunil/nucleiDB
+
+https://github.com/themoonbaba/private_templates/blob/main/springboot_heapdump.yaml
+
+https://github.com/trungkay2/Nuclei-template
+
+https://github.com/foulenzer/foulenzer-templates
+
+https://github.com/zinminphyo0/KozinTemplates
+
+https://gist.github.com/0x240x23elu
+
+https://github.com/0XParthJ/Nuclei-Templates
