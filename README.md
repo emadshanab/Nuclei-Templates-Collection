@@ -327,3 +327,5 @@ https://github.com/themoonbaba/private_templates/blob/main/springboot_heapdump.y
 https://github.com/NoRed0x/nored0x-Nuclei-Templates
 
 https://github.com/rxerium/CISA-KEV
+
+https://github.com/HideNsec/nuclei-bitrix-templates
