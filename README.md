@@ -325,3 +325,5 @@ https://github.com/0xElkot/My-Nuclei-Templates
 https://github.com/themoonbaba/private_templates/blob/main/springboot_heapdump.yaml
 
 https://github.com/NoRed0x/nored0x-Nuclei-Templates
+
+https://github.com/rxerium/CISA-KEV
