@@ -329,3 +329,21 @@ https://github.com/NoRed0x/nored0x-Nuclei-Templates
 https://github.com/rxerium/CISA-KEV
 
 https://github.com/HideNsec/nuclei-bitrix-templates
+
+https://github.com/reewardius/interested-nuclei-templates
+
+https://github.com/HernanRodriguez1/ScanReflectedSSTI
+
+https://github.com/praetorian-inc/zeroqlik-detect
+
+https://github.com/zodmagus/z0ds3c-Nuclei-Templates
+
+https://github.com/Mr-xn/CVE-2023-23333
+
+https://github.com/BagheeraAltered/FuzzingTemplate
+
+https://github.com/Shakilll/my_nuclei_templates
+
+https://github.com/vijay922/XXE-FUZZ
+
+https://github.com/topscoder/nuclei-zero-day
