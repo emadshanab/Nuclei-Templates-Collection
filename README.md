@@ -349,3 +349,13 @@ https://github.com/vijay922/XXE-FUZZ
 https://github.com/topscoder/nuclei-zero-day
 
 https://github.com/JoshMorrison99/my-nuceli-templates
+
+https://github.com/20142995/nuclei-templates
+
+https://github.com/JohnDoeAnonITA/NucleiTemplatePRV
+
+https://github.com/Co5mos/nuclei-tps
+
+https://github.com/al00000000al/my_nuclei_templates
+
+https://github.com/madisec/nuclei-templates
