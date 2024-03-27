@@ -359,3 +359,8 @@ https://github.com/Co5mos/nuclei-tps
 https://github.com/al00000000al/my_nuclei_templates
 
 https://github.com/madisec/nuclei-templates
+
+https://github.com/Caddyshack2175/nuclei-custom-templates
+
+https://github.com/0xc4sper0/Nuclei-templates
+
