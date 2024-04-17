@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# This shebang line specifies the Python 3 interpreter to use for executing this script.
+
 import os
 import subprocess
 
