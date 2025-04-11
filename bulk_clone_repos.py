@@ -5,7 +5,7 @@ import os
 import subprocess
 
 # File containing repository URLs
-repo_file = "README.md"
+repo_file = "README.txt"
 
 # Directory to clone into
 clone_dir = "community-templates"
